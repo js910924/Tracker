@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTemp.API", "ProjectTemp.API\ProjectTemp.API.csproj", "{B49C314F-B983-43F1-A992-0392A449D9E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.API", "Tracker.API\Tracker.API.csproj", "{B49C314F-B983-43F1-A992-0392A449D9E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

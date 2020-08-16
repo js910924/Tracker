@@ -4,7 +4,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace ProjectTemp.API.Controllers
+namespace Tracker.API.Controllers
 {
     [ApiController]
     [Route("[controller]/[action]")]

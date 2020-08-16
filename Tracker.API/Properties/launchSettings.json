@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ProjectTemp.API": {
+    "Tracker.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "",
